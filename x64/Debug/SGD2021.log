@@ -1,2 +1,19 @@
-﻿  01_hello_SDL.cpp
+﻿  Source.cpp
+C:\Users\19afr\Documents\PJATK\SEM6\SGD\Projekt\SGD2021\SGD2021\Source.cpp(462,11): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\19afr\Documents\PJATK\SEM6\SGD\Projekt\SGD2021\SGD2021\Source.cpp(463,11): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\19afr\Documents\PJATK\SEM6\SGD\Projekt\SGD2021\SGD2021\Source.cpp(465,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\19afr\Documents\PJATK\SEM6\SGD\Projekt\SGD2021\SGD2021\Source.cpp(519,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\19afr\Documents\PJATK\SEM6\SGD\Projekt\SGD2021\SGD2021\Source.cpp(520,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\19afr\Documents\PJATK\SEM6\SGD\Projekt\SGD2021\SGD2021\Source.cpp(525,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\19afr\Documents\PJATK\SEM6\SGD\Projekt\SGD2021\SGD2021\Source.cpp(530,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\19afr\Documents\PJATK\SEM6\SGD\Projekt\SGD2021\SGD2021\Source.cpp(534,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\19afr\Documents\PJATK\SEM6\SGD\Projekt\SGD2021\SGD2021\Source.cpp(539,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\19afr\Documents\PJATK\SEM6\SGD\Projekt\SGD2021\SGD2021\Source.cpp(545,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\19afr\Documents\PJATK\SEM6\SGD\Projekt\SGD2021\SGD2021\Source.cpp(546,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\19afr\Documents\PJATK\SEM6\SGD\Projekt\SGD2021\SGD2021\Source.cpp(548,51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\19afr\Documents\PJATK\SEM6\SGD\Projekt\SGD2021\SGD2021\Source.cpp(549,51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\19afr\Documents\PJATK\SEM6\SGD\Projekt\SGD2021\SGD2021\Source.cpp(561,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\19afr\Documents\PJATK\SEM6\SGD\Projekt\SGD2021\SGD2021\Source.cpp(561,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\19afr\Documents\PJATK\SEM6\SGD\Projekt\SGD2021\SGD2021\Source.cpp(814,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\19afr\Documents\PJATK\SEM6\SGD\Projekt\SGD2021\SGD2021\Source.cpp(814,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
   SGD2021.vcxproj -> C:\Users\19afr\Documents\PJATK\SEM6\SGD\Projekt\SGD2021\x64\Debug\SGD2021.exe
