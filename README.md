@@ -1,5 +1,5 @@
 # SGD2021
  
-car image - pngitem.com
-background - handmade - gimp
-tutorials/code snippets - lazyfoo.net
+car image - pngitem.com <br/>
+background - handmade - gimp <br/>
+tutorials/code snippets - lazyfoo.net <br/>
